@@ -1,0 +1,5 @@
+D:\21_Study_unity_python_setting\c#9.0_book\cs9_netfx_sample-master\cs9_netfx_sample-master\Chapter4\예제4.23\bin\Debug\ConsoleApplication1.exe
+D:\21_Study_unity_python_setting\c#9.0_book\cs9_netfx_sample-master\cs9_netfx_sample-master\Chapter4\예제4.23\bin\Debug\ConsoleApplication1.pdb
+D:\21_Study_unity_python_setting\c#9.0_book\cs9_netfx_sample-master\cs9_netfx_sample-master\Chapter4\예제4.23\obj\Debug\예제4.23.csproj.CoreCompileInputs.cache
+D:\21_Study_unity_python_setting\c#9.0_book\cs9_netfx_sample-master\cs9_netfx_sample-master\Chapter4\예제4.23\obj\Debug\ConsoleApplication1.exe
+D:\21_Study_unity_python_setting\c#9.0_book\cs9_netfx_sample-master\cs9_netfx_sample-master\Chapter4\예제4.23\obj\Debug\ConsoleApplication1.pdb
